@@ -41,7 +41,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 VET-CLINIC-DATABASE is microverse project use a relational database to create the initial data structure for a vet clinic.  The table to store animals' information, insert some data into it, and query it
  
-## 🛠 Built With <a name="built-with"> Database</a>
+
+## 🛠 Built With <a name="built-with"></a>
+- Database
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
