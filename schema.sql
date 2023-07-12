@@ -1,11 +1,10 @@
-/* Database schema to keep the structure of entire database. */
+/* Database schema to keep the structure of the entire database. */
 
 CREATE TABLE animals (
-    id AUTO_INCREMENT,
-    name varchar(100),
-    date_of_bith DATA,
-    escape_attemps INT,
-    neutered BOOLEAN,
-    weight_kg DECIMAL(10,2),
-    PRIMARY KEY (id)
-);
+    id BIGSERIAL NOT NULL PRIMARY KEY,
+	name VARCHAR(100) NOT NULL,
+	date_of_birth DATE NOT NULL,
+	escape_attempt INT,
+	neutered BOOLEAN NOT NULL,
+	weight_kg DECIMAL(10, 2) NOT NULL,
+	species varchar(100) );
