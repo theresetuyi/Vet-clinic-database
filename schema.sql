@@ -6,5 +6,7 @@ CREATE TABLE animals (
 	date_of_birth DATE NOT NULL,
 	escape_attempts INT,
 	neutered BOOLEAN NOT NULL,
-	weight_kg DECIMAL(10, 2) NOT NULL,
-	species varchar(100) );
+	weight_kg DECIMAL(10, 2) 
+	);
+	ALTER TABLE animals
+	ADD species VARCHAR(300);
