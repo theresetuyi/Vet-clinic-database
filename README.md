@@ -10,7 +10,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -43,7 +42,6 @@ VET-CLINIC-DATABASE is microverse project use a relational database to create th
 ## 🛠 Built With <a name="built-with"></a>
 - Database
 
-
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -60,14 +58,12 @@ VET-CLINIC-DATABASE is microverse project use a relational database to create th
 - **[PostgreSQL]**
 - **[create animals table]**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] very soon
+- [Live Demo Link] Very soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,14 +75,11 @@ VET-CLINIC-DATABASE is microverse project use a relational database to create th
 
 In order to run this project you need:
 SQL SHELL
-vscode
+vs code
 
 ### Setup
-
 Clone this repository to your desired folder:
-
-  git clone https://github.com/theresetuyi/Vet-clinic-database.git
-
+ git clone https://github.com/theresetuyi/Vet-clinic-database.git
 
 ### Install
 
@@ -103,9 +96,6 @@ Install POsygressSQL
 - GitHub: [@theresetuyi](https://github.com/theresetuyi)
 - Twitter: [@THERESETUYISAB2](https://twitter.com/THERESETUYISAB2)
 - LinkedIn: [therese-tuyisabe](https://www.linkedin.com/in/therese-tuyisabe/)
-
-👤 **Author2**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +132,6 @@ If you like this project give me ⭐️
 I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
